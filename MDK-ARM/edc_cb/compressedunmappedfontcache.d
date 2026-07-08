@@ -1,0 +1,35 @@
+edc_cb/compressedunmappedfontcache.o: \
+  ..\touchgfx\generated\fonts\src\compressedunmappedfontcache.cpp \
+  ..\touchgfx\generated\fonts\include\fonts\CompressedUnmappedFontCache.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\hal\FlashDataReader.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\hal\Types.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\hal\Config.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\Font.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\Unicode.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\hal\HAL.hpp \
+  ..\middlewares\st\touchgfx\framework\include\platform\core\MCUInstrumentation.hpp \
+  ..\middlewares\st\touchgfx\framework\include\platform\driver\button\ButtonController.hpp \
+  ..\middlewares\st\touchgfx\framework\include\platform\driver\touch\TouchController.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\Bitmap.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\Drawable.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\events\ClickEvent.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\Event.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\events\DragEvent.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\events\GestureEvent.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\hal\BlitOp.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\hal\DMA.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\hal\Atomic.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\hal\FrameBufferAllocator.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\hal\FrameBufferListener.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\hal\Gestures.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\UIEventListener.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\lcd\LCD.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\TextProvider.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\TextureMapTypes.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\hal\VectorFontRenderer.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\hal\VectorRenderer.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\Matrix3x3.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\hal\VGData.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\widgets\Widget.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\lcd\DebugPrinter.hpp \
+  ..\middlewares\st\touchgfx\framework\include\touchgfx\hal\Paint.hpp
